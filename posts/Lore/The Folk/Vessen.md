@@ -1,0 +1,3 @@
+Vessen is a broad category of folk that covers so called “beast folk” and shifters. Plant folk are often considered Vessen as well. Vessen may come from several sources: shaped by [[Thrae]] gods from captured mortal souls, formed from claimed souls by [[Atreans]] gods, or transformations of people by magical experiments, curses, or other supernatural means.
+
+Vessen can be [[Thrae]], [[Atreans]], or neutral. They are typically rarer and younger ancestries than the [[Ametian Folk]]. 

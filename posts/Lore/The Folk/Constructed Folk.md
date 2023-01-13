@@ -1,0 +1,5 @@
+Constructed folk such as warforged, automatons, and similar, are mostly found in the 4th Era, crafted by [[Irithiel]] arcanists. However, there are some examples of such folk found in the 1st Era, under secretive methods devised by [[Sodan]], an [[Atreans|Atrean]] god of crafting and clockwork magic. In fact, the late Era folk may have been developed by discovering ancient records and bodies of [[Sodan]]‘s early creations.
+
+1st Era Constructed folk were already rare in that time, and most of those few disappeared after the [[Fall of the Divine Tower]]. However, there are rare instances of an ancient surviving construct being existing in the 2nd and 3rd Eras. Because they may not die of old age, these people may be ancient, with memories of an earlier time.
+
+The other exception are beings who find their souls transferred to an artificial form, such as poppets. This is typically the result of magic or a curse on a more individual basis.

@@ -1,0 +1,5 @@
+Shardfall occurred upon the death of [[Aedai Speaks the Primordial Word]] when confronted by [[Issinia Slowly Unweaves in Silence]], after [[Ameti]] was rendered mortal by Issinia’s nature.
+
+The fragments of [[Aedai Speaks the Primordial Word]] tore through the world, shattering the [[Endless Citadel]] and [[Threa]] alike. For [[Threa]] this separated the material world into various lands, which appeared as planets traversing [[The Dark]], and changing the [[Cosmology of the World]]. At the borders of each world lies [[The Pale]], a scarred wound that leads in its depths to the [[Churn]]. 
+
+After this act, [[Issinia Slowly Unweaves in Silence]] left the [[Endless Citadel]] for the [[Far Shore]], never to return. The other [[Eldorim]] obtained large fragments of [[Aedai Speaks the Primordial Word]], and unshackled from their rule, began to plot to their own purposes.

@@ -1,0 +1,3 @@
+A vast sea in the afterlife, one path for souls to cross in the afterlife. The [[Near Shore]] borders the sea in the [[Ethereal plane]], with the [[Far Shore]] at the other side. Those that wish to cross the sea must be unburdened from sin and attachment to the materiel world, or else the chains of such burdens will cause them to sink to the depth of the sea and be trapped. Furthermore, strange creatures and gods live in the sea that hunger for souls, and hunt them. 
+
+Psychopomp boatmen can provide passage, for a price. 

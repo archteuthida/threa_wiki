@@ -1,0 +1,5 @@
+The Echo Realm is a plane that mimics the earliest formation of [[Threa]]. It resides as a mirror image of [[Threa]] reflected below in the underworld, but in the wild and unbroken form from before [[Exalted Volition]]‘s fall. The Echo Realm was first formed by early [[Thrae]] gods who wished to find independence from the fate woven by [[The Stars]], who went on to form the [[House Below]]. 
+
+Many Fey reside here, some the creations of the [[House Below]], others who fled here after the shattering of the lands. Because the Echo Realm resembles early [[Threa]], it is wild and filled with primal magic, which suits the Fey in particular.
+
+Additionally, the [[House Below]] attempted to create a framework to control their own fate in replacement of the influence of [[The Stars]]. To this end they created the [[Iron Law]], a complex bureaucracy that would eventually become the foundation of existence for [[Devils]]. Thus there is a fundamental contradiction of the Echo Realm, that of unyielding law against the chaos of the primal wilds. 

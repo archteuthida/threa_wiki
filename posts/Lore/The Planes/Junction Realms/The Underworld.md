@@ -1,0 +1,1 @@
+The lands of the dead. Spirits and souls are brought here by psychopomps (for those that can pay), or driven here by the nature of soul energy corroding on the material plane. 

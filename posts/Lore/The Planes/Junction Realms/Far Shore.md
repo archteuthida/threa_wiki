@@ -1,0 +1,1 @@
+The Far Shore lies at the other end of the [[Silent Sea]]. It is said to be a paradise, where the souls of the dead can spend their eternity in comfort until they tire of existence. [[Issinia Slowly Unweaves in Silence]] resides here in a distant palace, awaiting all weary souls who wish to be no more, which she gives her last embrace.

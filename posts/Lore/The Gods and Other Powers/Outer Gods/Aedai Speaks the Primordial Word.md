@@ -1,0 +1,1 @@
+The First. The one who spoke creation into existence with Word and Song, with the [[Litany of Creation]]. 
