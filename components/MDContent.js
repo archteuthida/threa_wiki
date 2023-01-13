@@ -42,6 +42,14 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
 
         <div className="markdown-rendered">
             
+            <div dangerouslySetInnerHTML={{__html: content}}/>
+            {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
+            {/*<hr/>*/}
+            <div>
+                <BackLinks linkList={backLinks}/>
+            </div>
+            <hr/>
+            
         </div>
     );
 }
