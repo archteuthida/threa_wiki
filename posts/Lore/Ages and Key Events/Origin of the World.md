@@ -5,15 +5,15 @@ In frustration, [[Aedai Speaks the Primordial Word]] channeled all unmaking and 
 
 They spoke into existence four fundamental planes: [[The Dark]], the [[Churn]], The [[Weft]] and the [[Warp]]. Where these planes met formed new planes and energies, and at their nexus was formed [[Threa]], the material plane.
 
-In a time before the gods, there first came the [[Eldorim]], meant to be the perfect folk created by [[Aedai Speaks the Primordial Word]] to populate the universe. Formed from all the essences of the universe, these people quickly spread across [[Threa]] in a vast and powerful empire, developing sophisticated magitech creations, labyrinthine cities, and strange monuments to their own. They worshipped no gods, for there were no gods yet, except for Aedai and Issinia. Instead, they built temples to the strongest of their own kind, who they considered ascended. 
+In a time before the gods dwelled on [[Threa]], there first came the [[Eldorim]], meant to be the perfect folk created by [[Aedai Speaks the Primordial Word]] to populate the universe. Formed from all the essences of the universe, these people quickly spread across [[Threa]] in a vast and powerful empire, developing sophisticated magitech creations, labyrinthine cities, and strange monuments to their own. They worshipped no gods, though the did respect and venerate [[The Stars]]. Instead, they built temples to the strongest of their own kind, who they considered ascended. 
 
 In time, the hubris of the [[Eldorim]] grew, such that they would challenge [[Aedai Speaks the Primordial Word]] themself for their power. They built vast roads interconnecting the realms, in order to reach [[Aedai Speaks the Primordial Word]]‘s throne. These would become the [[Lost Roads]]. 
 
-[[Aedai Speaks the Primordial Word]] did not stand for this impertinence of their creation. They sent [[Issinia Slowly Unweaves in Silence]] to punish the [[Eldorim]]. [[Issinia Slowly Unweaves in Silence]] visited the emperor of the [[Eldorim]], who lead the challenge for supremacy. She appeared with compassion and love, and embraced this leader. From that moment the [[Eldorim]] knew death, her firstborn, [[Maliph, God of Death]], and became mortal. Their people would now succumb to age and illness and their physical forms would fail, leaving their souls behind on [[Threa]]. 
+[[Aedai Speaks the Primordial Word]] did not stand for this impertinence of their creation. They sent [[Issinia Slowly Unweaves in Silence]] to punish the [[Eldorim]]. [[Issinia Slowly Unweaves in Silence]] visited the emperor of the [[Eldorim]], who lead the challenge for supremacy. She appeared with compassion and love, and embraced this leader. From the space between them was born her child, [[Maliph, God of Death]], and the [[Eldorim]] became mortal. Their people would now succumb to age and illness and their physical forms would fail, leaving their souls behind where their bodies fell. 
 
-Rather than deterring the [[Eldorim]], this act caused them to drive on with all the more fervor. In a rage, [[Aedai Speaks the Primordial Word]] spoke a word of chaos, and shattered [[Threa]], sinking the vast [[Eldorim]] cities beneath the ground and wiping out their people, leaving their souls to haunt [[Threa]].
+Rather than deterring the [[Eldorim]], this act caused them to drive on toward their goal with all the more fervor. In a rage, [[Aedai Speaks the Primordial Word]] spoke a word of chaos, and shattered [[Threa]], sinking the vast [[Eldorim]] cities beneath the ground and wiping out their people, leaving their souls to haunt the lands.
 
-[[Issinia Slowly Unweaves in Silence]], already resenting the pain she had caused the [[Eldorim]], was horrified at this genocide. She confronted [[Aedai Speaks the Primordial Word]], and, using the power of her very essence, shattered him in turn. The fragments of his body sundered his throne and the [[Lost Roads]], and the pieces that landed in the outer realms would become the gods. Smaller shards dusted [[Threa]] and the other realms.
+[[Issinia Slowly Unweaves in Silence]], already resenting the pain she had caused the [[Eldorim]], was horrified at this genocide. She confronted [[Aedai Speaks the Primordial Word]], and, using the power of her very essence, shattered him in turn. In an event known as [[Shardfall]], the fragments of his body sundered his throne and the [[Lost Roads]]. Smaller shards dusted [[Threa]] and the other realms.
 
 ### The Growth of Threa
 In time the gods formed from the outer realms. First to arrive on [[Threa]] were those who would become known as the [[Thrae]], formed from bountiful life and chaos. When they arrived, they felt the nature of [[Threa]] dissolving their metaphysical forms, and so sought a way to stabilize themselves. To do so they bound themselves with the land, so that their power flowed to and from it and refreshed itself with the natural cycles of wild life in the form of spirits. 
@@ -28,7 +28,7 @@ Soon, the first gods from beyond were attracted to the life on [[Threa]]. These 
 Thus went the first Age of [[Threa]]: The [[Unbroken Era]]. This age is defined by the workings of the [[Fey]] courts, the great [[Giantkin]] kingdoms, and the power of the [[Dragons and Dragonkin|Dragons]], as well as the arrival of [[Ameti]], the Soul Whisperer and mother of mortals.
 
 #### Ameti
-[[Ameti]] is an [[Atreans||Atrean]] god who’s talent is soul shaping. Shaped souls were in high demand in the realms outside [[Threa]], where creatures beings such as fiends and celestials made of souls of [[Eldorim]] felled in the outer realms found use as servitors and warriors to the other gods, and so [[Ameti]]‘s gift was always in high demand.
+[[Ameti]] is an [[Atreans||Atrean]] god who’s talent is soul shaping. Shaped souls were in high demand in the realms outside [[Threa]], where Outsider beings made of souls of [[Eldorim]] felled in the outer realms found use as servitors and warriors to the other gods, and so [[Ameti]]‘s gift was always in high demand.
 
 #### Mortals
 [[Issinia Slowly Unweaves in Silence]] fell in love with [[Ameti]], who fell in love with her in return. However, [[Issinia Slowly Unweaves in Silence]]’s closeness with [[Ameti]] rendered her mortal. This mortality meant that [[Ameti]] could no longer produce infinite new beings, each creature created stole some of her now limited life. In order to escape the [[outer realms]] and their demand for soul shaping, [[Ameti]] and [[Issinia Slowly Unweaves in Silence]] fled to [[Threa]], hidden from the other gods. [[Issinia Slowly Unweaves in Silence]] then left for the [[Far Shore]], to distance herself from her love and prevent further damage. 
@@ -55,27 +55,21 @@ In [[Issinia Slowly Unweaves in Silence]]‘s first child, [[Maliph, God of Deat
 However, now that the gods existed, they had use for mortal souls after their death. Each god or group of gods had a motivation to channel these souls from [[Threa]] to their own ends.
 
 ##### Early Mortal Life
-
 The [[Thrae]] gods were bound by the world and acted only according to their natures. To exist harmoniously with them required a restricted lifestyle, that respected the natural order. Attempts at  growing civilizations that unbalanced this order brought mortals into conflict with the [[Thrae]], for which they had little ability to counteract. Thus the [[Thrae]] gods were seen by many mortals as harsh and unforgiving gods.
 
-Some other occult gods, dwelling in the shadows of [[Thrae]] or in the [[Echo Realm]] below, offered tempting bargains to mortals, but the price was always high. Still, early mortals were able to multiply and form communities, kingdoms, even empires.
-
-#### The First Portentous Event
-[[Issinia Slowly Unweaves in Silence]] confronted Diadem, not content with her lot of being the [[Eldorim]] of destruction. When she was unable to change her fate, she used her power to destroy them, shattering the [[Eldorim]] and with them the lands above and below. The fragments of Diadem were flung through the universe, spreading destruction in its wake. When they landed on [[Threa]], they shattered the lands, creating great fissures filled with what would be known as [[The Pale]]. This first [[Portentous Events|Event]] would come to be known as [[Shardfall]]. The [[Hallowed]] would begin to appear soon after. However this was not [[Issinia Slowly Unweaves in Silence]]‘s destined destruction, and the universe lived on. 
-
-With Diadem gone, the other [[Eldorim]] were unshackled from their control and order, and begun to pursue their own goals for the universe, including influence on [[Threa]]. 
+Some other occult gods, dwelling in the shadows of [[Thrae]] or in the [[Echo Realm]] below, offered tempting bargains to mortals, but the price was always high. Still, early mortals were able to spread and form communities, kingdoms, and even empires.
 
 #### The Arrival of the Atra, the Sun, and the Moon
-After [[Shardfall]], [[Exalted Volition]] commanded [[Ashilem]] and his children, the [[Atreans]], to go to [[Threa]] and carry out their will.
+After a time, the spread of mortals on [[Threa]] did not go unnoticed. [[Ashilem]] and his children, the [[Atreans]], traveled to the world with the intent of ruling over mortal kind. 
 
-When they arrived on [[Threa]], they began converting mortals to their worship, offering great boons and magic in exchange for offerings and devotion. This exchange was eagerly accepted by most mortals, with the promise of better lives under more forgiving gods than the [[Thrae]], and safer than the occult gods. 
+When they arrived on [[Threa]], they began converting mortals to their worship, offering great boons and magic in exchange for offerings and devotion. This exchange was eagerly accepted by most mortals, with the promise of better lives under more forgiving gods than the [[Thrae]], and safer than the [[Whispered Ones]]. 
 
-When the [[Atreans|Atrean]] gods were born of a great flame in the far realms, [[Volar]]. They brought this flame with them when they arrived on [[Threa]], and installed it in the sky as the Sun which bears the same name. This sun obscured the light of [[The Stars]], lessening their influence over the lands. In retaliation, [[The Stars]] sent the moon, a celestial object filled with power, to destroy the sun. Instead, the [[Atreans]] set the sun to flee the moon, and thus the cycle of days and nights begun. It is said if the Moon ever catches the sun it will be annihilated, and the strength of Star-driven fate will return in full force to [[Threa]]. 
+The [[Atreans|Atrean]] gods were born of a great flame in the far realms, [[Volar]]. They brought this flame with them when they arrived on [[Threa]], and installed it in the sky as the sun, which bears the same name. This sun obscured the light of [[The Stars]], lessening their influence over the lands. In retaliation, [[The Stars]] sent the moon, a celestial object filled with power, to destroy the sun. [[Volar]] fled the moon which could not catch it, and thus the cycle of days and nights begun. It is said if the Moon ever catches the sun it will be annihilated, and the strength of Star-driven fate will return in full force to [[Threa]]. 
 
 ##### The War of Thrae and Atreans
-The [[Thrae]] were outraged by this invasion of new gods and their influence in allowing mortals to change the lands. Furthermore, their conversion of mortals to their worship decreased souls to offer to [[Threa]]. They went to war against the Atrean gods. 
+The [[Thrae]] were outraged by this invasion of new gods and their influence. Furthermore, their conversion of mortals to their worship decreased souls to offer to [[Threa]]. They went to war against the [[Atreans|Atrean]] gods. 
 
-Mortal folk now had to make a choice of which gods they would follow, [[Thrae]], [[Atreans]], or neither, though most choose one side or the other. It was not uniform amongst any ancestry as well—there were clans, tribes, and kingdoms of nearly every ancestry that aligned with both sides.
+Mortal folk now had to make a choice of which gods they would follow, [[Thrae]], [[Atreans]], or neither, though most choose one side or the other. It was not uniform amongst any ancestry as well—there were clans, tribes, and kingdoms of nearly every ancestry that aligned with one side or the other.
 
 With the [[Atreans|Atrean]] arrival began 1st Recorded Era, and the second age, the [[1st Era]].
 

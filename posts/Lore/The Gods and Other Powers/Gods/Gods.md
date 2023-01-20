@@ -1,8 +1,5 @@
 # Gods Overview
- 
-```ccard
-type: folder_brief_live
-```
+
  
 The Gods are formed from energy manifested where the [[Outer Realms]] meet. There are therefore four families of gods. Since Gods are formed from the [[Outer Realms]], they cannot abide the material world for long on their own. They begin to lose their power and go dormant. Each family of gods counteracts this in their own way.
 

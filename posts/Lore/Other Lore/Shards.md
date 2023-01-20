@@ -1,0 +1,1 @@
+Fragments of [[Aedai Speaks the Primordial Word]] after [[Issinia Slowly Unweaves in Silence]] shattered them. Shards can be consumed by [[Hallowed]] to gain power, and are often used as a currency.

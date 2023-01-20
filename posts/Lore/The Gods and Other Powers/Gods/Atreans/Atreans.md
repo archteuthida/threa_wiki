@@ -1,8 +1,5 @@
 # Atra Overview
  
-```ccard
-type: folder_brief_live
-```
  
 The Atrean Gods are the Children of the Flame, formed from the chaos of the [[Churn]] and shaped by the [[Eldorim]]. They served in the [[Endless Citadel]] for eons, before traveling to [[Threa]] after [[Shardfall]]. 
 

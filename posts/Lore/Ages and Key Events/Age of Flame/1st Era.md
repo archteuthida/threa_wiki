@@ -1,3 +1,5 @@
 ### The Era of Gods
 
-#### Years 0 1E - 1000 1E
+#### Years 0X 1E - 1X 1E
+
+This 

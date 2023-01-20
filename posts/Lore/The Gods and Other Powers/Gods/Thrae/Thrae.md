@@ -1,8 +1,5 @@
 # Thrae Overview
  
-```ccard
-type: folder_brief_live
-```
  
 The Thrae are the primal spirits of [[Threa]]. These spirits shaped the land and breathed the first life into existence, the plants and beasts and other wild things. They also formed the [[Fey]] and [[Giantkin]] from pure matter of [[Threa]], as well as the great Beast gods that defend the natural world.
 

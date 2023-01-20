@@ -1,8 +1,5 @@
 # Whispered Ones Overview
  
-```ccard
-type: folder_brief_live
-```
  
 The Whispered Ones are gods formed from [[The Dark]], and shaped by the [[Eldorim]]. They were sent to [[Threa]] when it formed to server as watchers and manipulators. 
 
