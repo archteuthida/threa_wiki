@@ -1,4 +1,4 @@
-This Eea isbmarked by the destruction wrought by the hubris of mortals. The lands stand in ruin, raked by magical storms and powerful monsters. The last remnants of mortal kind huddle in small clusters of sheltered reality. 
+This Era is marked by the destruction wrought by the hubris of mortals. The lands stand in ruin, raked by magical storms and powerful monsters. The last remnants of mortal kind huddle in small clusters of sheltered reality. 
 
 Some last brave and desperate few believe the world can be mended, and send out expeditions into the chaos to that end. Few return. 
 
