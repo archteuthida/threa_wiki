@@ -1,4 +1,33 @@
-The planes describe all the realms of the universe. There are four fundamental planes first formed by [[Aedai Speaks the Primordial Word]]: [[The Dark]], the [[Churn]], the [[Weft]], and the [[Warp]]. Where they all meet is formed [[Threa]], the material plane.
+
+Layers / Planes of the world:
+
+
+Outside all: Churn / Chaos
+
+High Heavens / Citadel
+Dark / Stars
+Material
+Spirit / Echo Realm (overlays Material)
+Underdark / Darklands (still material but deep)
+Ethereal (transitions material, spirit, and underworld)
+Underworld / Drylands (land of the dead) and Near shore
+Silent Sea
+Far Shore / Issinia’s Paradise
+
+World Wounds: rifts caused by Shardfall. The Pale / Mists overlay rifts to the Churn like scars.
+
+
+
+
+
+
+
+
+
+
+
+
+>The planes describe all the realms of the universe. There are four fundamental planes first formed by [[Aedai Speaks the Primordial Word]]: [[The Dark]], the [[Churn]], the [[Weft]], and the [[Warp]]. Where they all meet is formed [[Threa]], the material plane.
 
 ### The Planes of Matter
 

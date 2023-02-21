@@ -1,1 +1,9 @@
-The lands of the dead. Spirits and souls are brought here by psychopomps (for those that can pay), or driven here by the nature of soul energy corroding on the material plane. 
+The lands of the dead, also known as the Drylands. A grey desert, with scattered settlements of varying size and appearing from differing eras. Here the souls that do not pass on to other realms in their death ‘live’ out their death. However the souls that linger here long are listless and dull, and most the land is quiet.
+
+The Underworld is a plane so deep beneath the world it floats among the [[Outer Realms]]. Great passages beneath the earth lead here, even in the [[Ethereal plane]]. Here there are great cities of the dead, where they “live” out their afterlife, at least for a time. [[The Underworld]] is also populated by [[Devils]], [[Daemons or Yugoloths]], and [[Demons]] variously, which seek to take advantage of Spirits not ready to cross the [[Silent Sea]]. [[Devils]] in particular offer their services of “cleansing” souls to unburden them and ready them for passage across the [[Silent Sea]]. This process is excruciating for the recipient, which the [[Devils]] delight in, and is by no means guaranteed to work. Bound by contract, those that fail the process are consigned to the [[Devils]]’ use, which is generally to make more [[Devils]]. [[Devils]] often tempt mortals to sin, so that they are more likely to make use of their services in [[The Underworld]]. 
+
+There is a great river here, the [[River of Souls]] that runs down from the upper realms and from which the [[Whispered Ones]] were born. This river appears as water, but slakes no thirst in these parched lands. It eventually drains into the [[Silent Sea]]. 
+
+Mortals that die find their souls at the border of this land one way or another, wither facing the Wall, a low wall of stones that the dead cannot cross back over, or whisked down the [[River of Souls]], or deposited here by a psychopomp through the [[Ethereal plane]].
+
+Souls that wish to can make their way to the [[river of souls]] or the [[Near Shore]] of the [[Silent Sea]], and attempt to swim to the [[Far Shore]]

@@ -9,7 +9,7 @@ The [[Sigilbearers]] are the mightiest of gods. Given powerful magic sigils craf
 
 ### [[Ashilem 1]]
 
-### [[Issinia Slowly Unweaves in Silence]]
+### [[Issinia Slowly Unravels in Silence]]
 
 ### [[Morosh the Blasphemous Excrescence]]
 
